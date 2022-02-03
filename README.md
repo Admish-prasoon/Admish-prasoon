@@ -5,6 +5,6 @@
 - 📫 How to reach me: call 8986129744
 
 <!---
-Admish-prasoon/Admish-prasoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile and it will heck u lol.
+Admish-prasoon/Admish-prasoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
